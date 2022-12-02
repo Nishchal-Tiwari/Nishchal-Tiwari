@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishchal Tiwari</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 📫 How to reach me **nishchal98765@gmail.com**
+- 📫 Email **nishchal98765@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NFQqaFxWN2jg18GH2oFQEtDxeQGTCFBw/view?usp=share_link](https://drive.google.com/file/d/1NFQqaFxWN2jg18GH2oFQEtDxeQGTCFBw/view?usp=share_link)
+- 📄 Resume [Link🔗 ](https://drive.google.com/file/d/1NFQqaFxWN2jg18GH2oFQEtDxeQGTCFBw/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
