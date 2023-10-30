@@ -3,7 +3,7 @@
 
 - 📫 Email **nishchal98765@gmail.com**
 
-- 📄 Resume [Link🔗 ]([https://drive.google.com/file/d/1VxdmjyL0ByGnE8tfUWZ6jrG2sEAcEgXH/view?u](https://www.overleaf.com/read/xvbzdwhtnthb#8553f3)sp=share_link)
+- 📄 Resume [Link🔗 ](https://www.overleaf.com/read/xvbzdwhtnthb#8553f3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
